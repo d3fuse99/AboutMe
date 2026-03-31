@@ -2,8 +2,6 @@
 About me
 **14 y.o.** | **8+ years behind a PC** | **Colorblind developer**
 
-To anyone who thinks colorblind people don't belong in programming: suck it.
-
 ---
 
 ## What I know
