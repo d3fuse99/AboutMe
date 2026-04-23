@@ -1,5 +1,5 @@
 # AboutMe
-About me
+
 **14 y.o.** | **8+ years behind a PC** | **Colorblind developer**
 
 ---
@@ -16,38 +16,37 @@ Panda3D (3D games)
 Java (basics)
 
 **Cybersecurity**  
-Bruteforce methods  
-Malware types (viruses, trojans, worms)  
-OSINT  
-Social engineering (phishing, pretexting)  
-Vulnerability basics (SQLi, XSS)  
-Lunar method
+- **OSINT & recon** – Holehe customization, email registration checks, deep mode with anti‑detection (session warming, mobile UA, request jitter)  
+- **Bruteforce** – methods, limitations, prevention  
+- **Malware analysis** – viruses, trojans, worms, ransomware behavior  
+- **Network attacks** – DDoS, port scanning, HTTP floods  
+- **Web vulnerabilities** – SQLi, XSS, phishing simulation (PHISH_CHECK_OS)  
+- **Social engineering** – phishing, pretexting, baiting  
+- **Defense & bypass** – rate‑limit handling, WAF fingerprinting, mobile header spoofing  
+- **Lunar method**
 
-**Data & automation**  
+**Automation & scripting**  
+- **Security automation** – custom OSINT tools (holeheEU), real‑time attack dashboards (SOC simulator)  
+- **CI/CD basics** – GitHub Actions (planned), Flask app deployment  
+- **Task automation** – Python scripts for scraping, log analysis, data enrichment  
+
+**Data & analysis**  
 Web scraping (requests, BeautifulSoup)  
-Task automation  
-Data analysis
+Data analysis (Pandas, NumPy)  
+Log parsing & anomaly detection  
 
 **Databases**  
 MySQL (queries, design)  
-SQL
+SQLite (local storage for projects)
 
 **Linux**  
-Terminal  
-File system  
-Permissions  
-Bash basics
+Terminal, file system, permissions, bash basics
 
 **Hardware**  
-PC assembly  
-Troubleshooting  
-Upgrades  
-Deep hardware understanding
+PC assembly, troubleshooting, upgrades – deep understanding
 
 **Other**  
-Git  
-Analytical thinking  
-Problem solving
+Git, analytical thinking, problem solving
 
 ---
 
@@ -98,18 +97,17 @@ Year 3:
 
 ## Self-study & ongoing
 
-**Cybersecurity**  
-Bruteforce methods and prevention  
-Malware types (viruses, trojans, worms)  
-OSINT (information gathering)  
-Social engineering (phishing, pretexting)  
-Vulnerability basics (SQLi, XSS)  
-Lunar method
+**Cybersecurity (advanced)**  
+- OSINT tool development (holeheEU – deep mode, anti‑detection)  
+- Real‑time SOC simulation (attack dashboard, 8 vectors)  
+- Phishing education (PHISH_CHECK_OS)  
+- Malware behavior analysis (Sandbox OS project)  
+- DDoS gamified training (DDoS Defense Lab)  
 
 **Web development**  
 HTML5, CSS3, responsive design  
 JavaScript (ES6)  
-Flask and Django (backend)  
+Flask & Django (backend)  
 REST APIs, JSON
 
 **Python**  
@@ -119,10 +117,7 @@ Web scraping
 Data analysis
 
 **Other**  
-Linux basics (terminal, file system, permissions)  
-MySQL (advanced queries)  
-PC hardware (assembly, troubleshooting, upgrades)  
-English (B1–B2 for technical communication)
+Linux basics, MySQL, PC hardware
 
 ---
 
