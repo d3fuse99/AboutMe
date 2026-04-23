@@ -20,13 +20,12 @@ Java (basics)
 - **Bruteforce** – methods, limitations, prevention  
 - **Malware analysis** – viruses, trojans, worms, ransomware behavior  
 - **Network attacks** – DDoS, port scanning, HTTP floods  
-- **Web vulnerabilities** – SQLi, XSS, phishing simulation (PHISH_CHECK_OS)  
+- **Web vulnerabilities** – SQLi, XSS, phishing simulation  
 - **Social engineering** – phishing, pretexting, baiting  
 - **Defense & bypass** – rate‑limit handling, WAF fingerprinting, mobile header spoofing  
-- **Lunar method**
 
 **Automation & scripting**  
-- **Security automation** – custom OSINT tools (holeheEU), real‑time attack dashboards (SOC simulator)  
+- **Security automation** – custom OSINT tools, real‑time attack dashboards  
 - **CI/CD basics** – GitHub Actions (planned), Flask app deployment  
 - **Task automation** – Python scripts for scraping, log analysis, data enrichment  
 
@@ -95,19 +94,20 @@ Year 3:
 
 ---
 
-## Self-study & ongoing
+## Self‑study & current work
 
 **Cybersecurity (advanced)**  
-- OSINT tool development (holeheEU – deep mode, anti‑detection)  
-- Real‑time SOC simulation (attack dashboard, 8 vectors)  
-- Phishing education (PHISH_CHECK_OS)  
-- Malware behavior analysis (Sandbox OS project)  
-- DDoS gamified training (DDoS Defense Lab)  
+- [HoleheEU](https://github.com/d3fuse99/holeheEU) – OSINT tool with deep mode, session warming, mobile UA, request jitter  
+- [SOC Sentinel v9.9](https://github.com/d3fuse99/cyber-security-soc-simulator) – real‑time attack dashboard (8 vectors, live logs, autonomous defense)  
+- [PHISH_CHECK_OS](https://github.com/d3fuse99/PHISH_CHECK_OS) – interactive phishing simulator (150 scenarios, 3 levels)  
+- [Sandbox OS](https://github.com/d3fuse99/cyber-security-soc-simulator) – malware behavior simulation (work in progress)  
+- [DDoS Defense Lab](https://github.com/d3fuse99/ddos-defense-lab) – gamified Flask training lab (missions, mini‑games, role progression)  
+- [HumanOrNot](https://github.com/d3fuse99/HumanOrNot) – Turing test game (10,000 dialogue nodes, two personalities)
 
 **Web development**  
 HTML5, CSS3, responsive design  
 JavaScript (ES6)  
-Flask & Django (backend)  
+Flask, Django (backend)  
 REST APIs, JSON
 
 **Python**  
