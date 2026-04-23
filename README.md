@@ -100,7 +100,6 @@ Year 3:
 - [HoleheEU](https://github.com/d3fuse99/holeheEU) – OSINT tool with deep mode, session warming, mobile UA, request jitter  
 - [SOC Sentinel v9.9](https://github.com/d3fuse99/cyber-security-soc-simulator) – real‑time attack dashboard (8 vectors, live logs, autonomous defense)  
 - [PHISH_CHECK_OS](https://github.com/d3fuse99/PHISH_CHECK_OS) – interactive phishing simulator (150 scenarios, 3 levels)  
-- [Sandbox OS](https://github.com/d3fuse99/cyber-security-soc-simulator) – malware behavior simulation (work in progress)  
 - [DDoS Defense Lab](https://github.com/d3fuse99/ddos-defense-lab) – gamified Flask training lab (missions, mini‑games, role progression)  
 - [HumanOrNot](https://github.com/d3fuse99/HumanOrNot) – Turing test game (10,000 dialogue nodes, two personalities)
 
