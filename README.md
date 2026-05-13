@@ -94,15 +94,6 @@ Year 3:
 
 ---
 
-## Self‑study & current work
-
-**Cybersecurity (advanced)**  
-- [HoleheEU](https://github.com/d3fuse99/holeheEU) – OSINT tool with deep mode, session warming, mobile UA, request jitter  
-- [Security_analys](https://github.com/d3fuse99/Security_analys) – real‑time attack dashboard (8 vectors, live logs, autonomous defense)  
-- [PHISH_CHECK_OS](https://github.com/d3fuse99/PHISH_CHECK_OS) – interactive phishing simulator (150 scenarios, 3 levels)  
-- [HumanOrNot](https://github.com/d3fuse99/HumanOrNot) – Turing test game (10,000 dialogue nodes, two personalities)  
-- [cybersecurity_test](https://github.com/d3fuse99/cybersecurity_test) – gamified Flask training lab (missions, mini‑games, role progression)
-
 **Web development**  
 HTML5, CSS3, responsive design  
 JavaScript (ES6)  
