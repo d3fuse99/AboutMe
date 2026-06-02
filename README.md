@@ -1,6 +1,6 @@
 # Hi, I'm d3fuse 👋
 
-I am a 14-year-old developer from Ukraine. I have been studying programming for over 3 years, specializing in Python, PowerShell, and system security automation. I focus on building practical tools, automating routine tasks, and understanding how operating systems work.
+I am a 14-year-old developer from Ukraine. I have been studying programming for over 4 years, specializing in Python, PowerShell, and system security automation. I focus on building practical tools, automating routine tasks, and understanding how operating systems work.
 
 ### 🛠️ Technical Stack & Skills
 
