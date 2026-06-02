@@ -1,96 +1,23 @@
-# AboutMe
+# Hi, I'm d3fuse 👋
 
-14 y.o. developer interested in automation, systems, networking and security-related tools.
+I am a 14-year-old developer from Ukraine. I have been studying programming for over 3 years, specializing in Python, PowerShell, and system security automation. I focus on building practical tools, automating routine tasks, and understanding how operating systems work.
 
-Working with PCs and technology since childhood.
+### 🛠️ Technical Stack & Skills
 
-Colorblindness taught me one thing early:
-don't trust what you see — understand what it means.
+* **Programming Languages:** Python, PowerShell, Bash, HTML5, CSS3, JavaScript (ES6)
+* **Databases:** SQLite, MySQL
+* **Core Domains:** Active Defense, EDR Concepts, OSINT, System Auditing, Socket Programming, WMI/CIM Queries
 
-I enjoy building tools, experimenting, debugging and understanding how systems work.
+### 🎓 Education & Background
 
----
+* **IT Academy "Logika" — Python Programming Curriculum (3 Full Years / 240+ Academic Hours):**
+  * **1st Year (Fundamentals & OOP):** Core Python syntax, control flow, Object-Oriented Programming, and basic algorithms.
+  * **2nd Year (Advanced GUI & Data):** Data structures, GUI development (PyQt), file I/O operations (Text & JSON processing).
+  * **3rd Year (Advanced Development):** Complex application logic, state management, and project deployment.
 
-## Technologies & Tools
+### 🌐 Languages
 
-Python (automation, scripting, APIs, OOP)
-Flask, Django (basics)
-HTML5, CSS3, JavaScript (ES6)
-Pandas, NumPy
-SQLite, MySQL
-Git
-Linux basics
-
----
-
-## Areas of Interest
-
-- Automation & scripting
-- OSINT & recon
-- Networking
-- System utilities
-- Web scraping
-- Security-related projects
-- Data analysis
-
----
-
-## Experience With
-
-- Python automation scripts
-- API integration
-- Web scraping
-- Log parsing & analysis
-- Telegram bots
-- Local databases
-- Network scanning
-- Small desktop utilities
-- System inspection tools
-
----
-
-## Education
-
-### Python Pro — 3-year program
-
-Topics included:
-- Python fundamentals
-- OOP
-- Algorithms & data structures
-- Automation
-- Data analysis
-- APIs
-- Databases
-- Web development
-- Web scraping
-- Deployment basics
-- Project development
-
----
-
-## Languages
-
-- Ukrainian — native
-- Russian — native
-- English — B1/B2
-- German — A2/B1
-
----
-
-## Current Focus
-
-Currently improving skills in:
-- Python
-- Networking
-- Linux
-- Backend development
-- System architecture
-- Security fundamentals
-
----
-
-## Mindset
-
-I analyze. I ask “what if”. I build, break and rebuild.
-
-Most of my experience comes from experimenting, personal projects and solving problems while learning.
+* **Ukrainian:** Native
+* **Russian:** Native
+* **English:** B1/B2
+* **German:** A2/B1
