@@ -1,26 +1,31 @@
-# Hi, I'm d3fuse 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Security_Automation-cyan" alt="Role">
+  <img src="https://img.shields.io/badge/Age-14_y.o.-magenta" alt="Age">
+  <img src="https://img.shields.io/badge/Focus-Systems_%26_Tooling-blue" alt="Focus">
+</p>
 
-I am a 14-year-old developer from Ukraine. I have been studying programming for over 4 years, specializing in Python, PowerShell, and system security automation. I focus on building practical tools, automating routine tasks, and understanding how operating systems work.
+<hr>
 
-### 🛠️ Technical Stack & Skills
+<h2>Who Am I?</h2>
+I am a 14-year-old developer focused on automation, systems, and security-related tooling. 
 
-* **Programming Languages:** Python, PowerShell, Bash, HTML5, CSS3, JavaScript (ES6)
-* **Databases:** SQLite, MySQL
-* **Core Domains:** Active Defense, EDR Concepts, OSINT, System Auditing, Socket Programming, WMI/CIM Queries
+Most of my learning comes from building projects, experimenting, and figuring things out on my own. I prefer understanding how things work rather than memorizing information.
 
-### 🎓 Education & Background
+<h2>Technical Focus</h2>
+My strongest area is Python, which I use for automation, OSINT tools, system utilities, and various experiments. I have worked with APIs, web scraping, databases, networking concepts, and desktop applications.
 
-* **IT Academy "Logika" — Python Programming Curriculum (3 Full Years / 240+ Academic Hours):**
-  * **1st Year (Fundamentals & OOP):** Core Python syntax, control flow, Object-Oriented Programming, and basic algorithms.
-  * **2nd Year (Advanced GUI & Data):** Data structures, GUI development (PyQt), file I/O operations (Text & JSON processing).
-  * **3rd Year (Advanced Development):** Complex application logic, state management, and project deployment.
+I am interested in cybersecurity, but mostly from the perspective of automation, analysis, and tooling rather than offensive security. I enjoy creating tools that collect, process, and analyze information.
 
-### 🌐 Languages
+<h2>My Approach</h2>
+My approach is simple:
 
-* **Ukrainian:** Native
-* **Russian:** Native
-* **English:** B1/B2
-* **German:** A2/B1
+<ul>
+  <li>Analyze</li>
+  <li>Experiment</li>
+  <li>Build</li>
+  <li>Break</li>
+  <li>Improve</li>
+  <li>Repeat</li>
+</ul>
 
-### ✉️ Contact
-*   **Email:** d3fuse99@gmail.com
+I don't claim to know everything. I learn by creating projects, making mistakes, and solving problems one by one.
